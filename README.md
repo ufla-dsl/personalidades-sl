@@ -10,6 +10,7 @@ Abaixo, encontra-se a lista de personalidades já tratadas, juntamente os _links
 * [Richard Matthew Stallman](stallman/intro.md) (Turma 2022/1)
 * [Linus Benedict Torvalds](linus/intro.md) (Turma 2022/2)
 * [Apache Software Foundation](apache/intro.md) (Turma 2023/2)
+* [Ian Murdock] (Turma 2025/1)
 
 ---
 
