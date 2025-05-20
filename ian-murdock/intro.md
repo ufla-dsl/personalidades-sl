@@ -10,7 +10,7 @@ Abaixo, estão os principais assuntos sobre a vida e as contribuições desta im
 - [Carreira profissional](carreira.md)
 - Relação com o movimento de Software Livre
     - [A distribuição Debian](debian.md)
-- [Curiosidades](curiosidades.md)
+- [Curiosidades e polêmicas](curiosidades.md)
 - [Produção (livros, artigos, programas de computador, etc)](producao.md)
 - [Prêmios e reconhecimentos](premios-e-reconhecimentos.md)
 - [Álbum de fotos](fotos.md)
