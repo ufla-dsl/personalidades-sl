@@ -18,6 +18,9 @@ O Projeto Debian continua sendo uma força vibrante e ativa no cenário do softw
 ## Quais suas consequências no movimento do Software Livre?
 O Projeto Debian possibilitou vastas consequências no movimento de Software Livre. Sua influência mais visível é servir como base para um ecossistema massivo de outras distribuições (Ubuntu, Mint, Kali, etc.), amplificando o alcance do software livre. O Debian estabeleceu padrões éticos e de qualidade; suas DFSG[^3] fundamentaram a Open Source Definition[^5], e seu Manual de Políticas influenciou a engenharia de distribuições. O compromisso do Contrato Social[^2] com a liberdade e a transparência serve como exemplo. Tecnicamente, ferramentas como `dpkg` e APT revolucionaram o gerenciamento de pacotes. Seu modelo organizacional voluntário e democrático provou ser um sucesso para projetos de grande escala, inspirando outros e consolidando o Debian como um pilar essencial do ecossistema de software livre.
 
+## Curiosidade sobre o Debian.
+Uma curiosidade interessante sobre o Debian é que cada versão estável recebe o nome de um personagem do filme *Toy Story*. Isso começou como uma brincadeira interna dos desenvolvedores, já que Bruce Perens, um dos líderes do projeto na época, também trabalhou na Pixar, o estúdio responsável pelo filme. Por exemplo, versões como *Buzz*, *Slink*, *Woody*, *Jessie* e *Buster* fazem referência direta a personagens da animação. Essa tradição continua até hoje e é uma das marcas curiosas e bem-humoradas do projeto Debian.[^11]
+
 [^1]: [Sobre o Debian](https://www.debian.org/intro/about.pt.html)
 
 [^2]: [Contrato Social Debian](https://www.debian.org/social_contract)
@@ -37,3 +40,5 @@ O Projeto Debian possibilitou vastas consequências no movimento de Software Liv
 [^9]: [Parceiros do Debian](https://www.debian.org/partners/)
 
 [^10]: [Iniciativa Google Summer of Code](https://summerofcode.withgoogle.com/programs/2025/organizations/debian)
+
+[^11]: [Lançamentos da distribuição Debian](https://www.debian.org/doc/manuals/project-history/releases.pt.html)
