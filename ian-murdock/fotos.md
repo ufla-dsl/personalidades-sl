@@ -17,6 +17,12 @@ Aqui apresentamos uma coleção de fotos que registram momentos importantes da v
 **Evento:** *OSCON (O'Reilly Open Source Convention)*  
 **Descrição:** Nesta imagem, Ian Murdock está presente na O'Reilly Open Source Convention (OSCON), um dos eventos mais relevantes para a comunidade de software livre. A conferência reuniu líderes, desenvolvedores e visionários do mundo open source. Murdock, já amplamente reconhecido como fundador do Debian, compartilhou suas perspectivas sobre os rumos do software livre e sua experiência na construção de projetos colaborativos em larga escala.
 
+## ![Ian Murdock no Sun Tech Days 2008](./assets/Ian_Murdock_at_Sun_Tech_Days,_Saint_Petersburg,_2008.jpg)
+
+**Data:** 2008  
+**Evento:** *Sun Tech Days, São Petersburgo, Rússia*  
+**Descrição:** Nesta foto, Ian Murdock participa do Sun Tech Days 2008, um evento internacional promovido pela Sun Microsystems para engajar desenvolvedores em novas tecnologias e plataformas abertas. Na época, Murdock atuava como Vice-Presidente de Plataformas Emergentes da Sun. Durante sua apresentação, ele discutiu a importância da padronização, da interoperabilidade e do papel do software livre na construção de uma infraestrutura tecnológica acessível e inovadora.
+
 
 
 ## Foto 1: Ian Murdock - Criador do Debian
