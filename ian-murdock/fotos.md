@@ -2,6 +2,23 @@
 
 Aqui apresentamos uma coleção de fotos que registram momentos importantes da vida e as contribuições de Ian Murdock para o mundo do Software Livre.
 
+
+
+## ![Ian Murdock em palestrando](ian-murdock-2008.webp)
+
+**Data:** 6 de maio de 2008  
+**Evento:** *CommunityOne General Session, Moscone Center, San Francisco*  
+**Descrição:** Nesta foto, Ian Murdock participa da sessão geral do evento CommunityOne, realizado no Moscone Center em San Francisco. O evento reuniu desenvolvedores, entusiastas de software livre e membros da comunidade open source. Murdock, conhecido por seu trabalho no Debian e envolvimento posterior com a Sun Microsystems, destacou neste evento o papel das comunidades colaborativas no avanço do software de código aberto.
+
+
+## ![Ian Murdock na OSCON](1064842745_c18fdccea2_c.jpg)
+
+**Data:** 25 de julho de 2007  
+**Evento:** *OSCON (O'Reilly Open Source Convention)*  
+**Descrição:** Nesta imagem, Ian Murdock está presente na O'Reilly Open Source Convention (OSCON), um dos eventos mais relevantes para a comunidade de software livre. A conferência reuniu líderes, desenvolvedores e visionários do mundo open source. Murdock, já amplamente reconhecido como fundador do Debian, compartilhou suas perspectivas sobre os rumos do software livre e sua experiência na construção de projetos colaborativos em larga escala.
+
+
+
 ## Foto 1: Ian Murdock - Criador do Debian
 
 ![Ian Murdock, o criador do Debian, em um retrato](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/IanMurdock.jpg/1024px-IanMurdock.jpg)
