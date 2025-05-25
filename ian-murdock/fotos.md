@@ -43,7 +43,7 @@ Esta foto apresenta Ian Murdock em um contexto que parece ser um momento mais ca
 
 
 
-## ![Ian Murdock como CTO do Free Standards Group](https://news-cdn.softpedia.com/images/news2/Debian-Founder-is-new-CTO-of-Free-Standards-Group-2.png)
+## ![Ian Murdock como CTO do Free Standards Group](./assets/ian-murdock-18179764-c9d7-4c1b-bd40-fea302194b5-resize-750.jpg)
 
 **Data:** Janeiro de 2006  
 **Evento:** *Nomeação como CTO do Free Standards Group*  
@@ -53,7 +53,7 @@ Esta foto apresenta Ian Murdock em um contexto que parece ser um momento mais ca
 
 
 
-## ![Retrato de Ian Murdock em 2005](https://upload.wikimedia.org/wikipedia/commons/c/cd/Imurdock.jpg)
+## ![Retrato de Ian Murdock em 2005](./assets/Imurdock.jpg)
 
 **Data:** 13 de maio de 2005  
 **Evento/Contexto:** *Foto de perfil do site pessoal de Ian Murdock*  
@@ -63,10 +63,11 @@ Esta foto apresenta Ian Murdock em um contexto que parece ser um momento mais ca
 
 
 
-## ![Retrato de Ian Murdock publicado em 2015](https://www.sandiegouniontribune.com/wp-content/uploads/migration/2015/12/31/00000169-69c1-da6f-abeb-7ffb9b350000.jpg?w=879)
+## ![Retrato de Ian Murdock publicado em 2015](./assets/00000169-69c1-da6f-abeb-7ffb9b350000.webp)
 
 **Data:** 2015  
 **Evento:** *Publicação em matéria do San Diego Union-Tribune sobre sua morte*  
 **Descrição:** Este retrato de Ian Murdock foi publicado em uma matéria do jornal San Diego Union-Tribune após seu falecimento em dezembro de 2015. A imagem representa um dos registros mais difundidos de Murdock, reconhecido mundialmente por ter fundado o Projeto Debian em 1993. O artigo abordava sua trajetória no movimento do software livre e as circunstâncias de sua morte, além de destacar seu papel fundamental na evolução dos sistemas operacionais Linux.
 
 [^8]: Fonte da foto 8: [https://www.sandiegouniontribune.com/2015/12/31/ian-murdock-promoter-of-free-software-dies-at-42/](https://www.sandiegouniontribune.com/2015/12/31/ian-murdock-promoter-of-free-software-dies-at-42/)
+
