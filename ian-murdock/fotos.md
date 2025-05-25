@@ -4,7 +4,7 @@ Aqui apresentamos uma coleção de fotos que registram momentos importantes da v
 
 
 
-## ![Ian Murdock em palestrando](ian-murdock-2008.webp)
+## ![Ian Murdock palestrando](ian-murdock-2008.webp)
 
 **Data:** 6 de maio de 2008  
 **Evento:** *CommunityOne General Session, Moscone Center, San Francisco*  
