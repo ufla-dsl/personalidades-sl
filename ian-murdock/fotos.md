@@ -28,7 +28,7 @@ Aqui apresentamos uma coleção de fotos que registram momentos importantes da v
 
 ![Ian Murdock, o criador do Debian, em um retrato](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/IanMurdock.jpg/1024px-IanMurdock.jpg)
 
-Esta imagem mostra Ian Murdock, o engenheiro de software americano conhecido por fundar o Projeto Debian em 1993[cite: 3]. Ele foi uma figura central na comunidade Linux, contribuindo significativamente para a filosofia e o desenvolvimento de sistemas operacionais abertos. Esta foto em particular é amplamente utilizada para representá-lo.[^1]
+Esta imagem mostra Ian Murdock, o engenheiro de software americano conhecido por fundar o Projeto Debian em 1993. Ele foi uma figura central na comunidade Linux, contribuindo significativamente para a filosofia e o desenvolvimento de sistemas operacionais abertos. Esta foto em particular é amplamente utilizada para representá-lo.[^1]
 
 
 [^1]: Fonte da foto 1: [https://commons.wikimedia.org/wiki/File:IanMurdock.jpg](https://commons.wikimedia.org/wiki/File:IanMurdock.jpg) (Licença: Creative Commons Attribution-Share Alike 4.0 International)
