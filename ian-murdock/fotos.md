@@ -4,14 +4,14 @@ Aqui apresentamos uma coleção de fotos que registram momentos importantes da v
 
 
 
-## ![Ian Murdock palestrando](ian-murdock-2008.webp)
+## ![Ian Murdock palestrando](./assets/ian-murdock-2008.webp)
 
 **Data:** 6 de maio de 2008  
 **Evento:** *CommunityOne General Session, Moscone Center, San Francisco*  
 **Descrição:** Nesta foto, Ian Murdock participa da sessão geral do evento CommunityOne, realizado no Moscone Center em San Francisco. O evento reuniu desenvolvedores, entusiastas de software livre e membros da comunidade open source. Murdock, conhecido por seu trabalho no Debian e envolvimento posterior com a Sun Microsystems, destacou neste evento o papel das comunidades colaborativas no avanço do software de código aberto.
 
 
-## ![Ian Murdock na OSCON](1064842745_c18fdccea2_c.jpg)
+## ![Ian Murdock na OSCON](./assets/1064842745_c18fdccea2_c.jpg)
 
 **Data:** 25 de julho de 2007  
 **Evento:** *OSCON (O'Reilly Open Source Convention)*  
