@@ -9,14 +9,15 @@ Ian Ashley Murdock nasceu em 28 de abril de 1973, na cidade de Konstanz, Baden-W
 Há poucas informações disponíveis sobre seus pais, mas sabe-se que seu pai se chamava Lawrence L. Murdock e que, na época de seu nascimento, estava envolvido em uma pesquisa de pós-doutorado.
 
 ## Como foi sua infância/adolescência? <br>
-
+Ian mudou-se ainda criança para os Estados Unidos. Desde cedo, demonstrou grande interesse por computadores e tecnologia, passando boa parte da infância e adolescência explorando sistemas computacionais e programando.
 
 ## Como era sua personalidade? <br>
-
+Ian era uma pessoa reservada e discreta, mas muito inteligente, dedicada e acolhedora com quem compartilhava interesses em tecnologia. Não era extrovertido, mas sabia se comunicar bem em ambientes técnicos.
 
 ## O que mais gostava de fazer? <br>
-
-
+Ian gostava muito de programar, explorar sistemas operacionais e contribuir com a comunidade de software livre. Essas atividades foram suas maiores paixões pessoais e profissionais.
 
 ## Outras informações relevantes sobre sua vida pessoal <br>
 
+
+## Referencias:  <br>
