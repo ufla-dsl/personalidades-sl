@@ -18,6 +18,17 @@ Ian era uma pessoa reservada e discreta, mas muito inteligente, dedicada e acolh
 Ian gostava muito de programar, explorar sistemas operacionais e contribuir com a comunidade de software livre. Essas atividades foram suas maiores paixões pessoais e profissionais.
 
 ## Outras informações relevantes sobre sua vida pessoal <br>
+Ian estudou Ciência da Computação na Purdue University, nos Estados Unidos.
 
+Criou o Debian, um dos sistemas GNU/Linux mais importantes, nomeando-o a partir da junção dos nomes "Debra" (sua então namorada) e "Ian".
+
+Faleceu tragicamente em 28 de dezembro de 2015, em San Francisco, Califórnia, aos 42 anos, causando grande comoção na comunidade do software livre.
 
 ## Referencias:  <br>
+"Ian Murdock". Wikipédia. Disponível em: https://pt.wikipedia.org/wiki/Ian_Murdock. Acesso em: 23 mai.
+
+Shankland, Stephen. "Debian creator Ian Murdock dies at 42". CNET, 30 dez. 2015. Disponível em: https://www.cnet.com/tech/tech-industry/debian-creator-ian-murdock-dies-at-42/. Acesso em: 23 mai. 2025
+
+McMillan, Robert. "Ian Murdock, Founder of Debian Linux, Dies at 42". Wired, 30 dez. 2015. Disponível em: https://www.wired.com/2015/12/ian-murdock-founder-of-debian-linux-dies/. Acesso em: 23 mai. 2025.
+
+Debian. "Debian History". Debian.org. Disponível em: https://www.debian.org/doc/manuals/project-history/ch-intro.pt.html. Acesso em: 23 mai. 2025.
