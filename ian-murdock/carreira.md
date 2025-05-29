@@ -64,8 +64,12 @@
 - **Formação Acadêmica**  
   Ian Murdock formou-se em Ciência da Computação pela Purdue University em 1996, onde iniciou o Projeto Debian ainda como estudante.[^18]
 
+  Para mais informações sobre, acesse a seção [Formação Acadêmica](formacao-academica.md)
+
 - **Legado e impacto**  
   Murdock é amplamente reconhecido como um dos maiores nomes do movimento de software livre. Seu trabalho com o Debian influenciou incontáveis projetos open source.[^19]
+
+  Assim, caso queira saber mais sobre as contribuições dele basta acessar a seção [Premios e Reconhecimentos](premios-e-reconhecimentos.md).
 
 - **Falecimento**  
   Ian Murdock faleceu em 28 de dezembro de 2015, aos 42 anos. Sua morte foi oficialmente reportada como suicídio. A comunidade de software livre prestou diversas homenagens após sua partida.[^20]
