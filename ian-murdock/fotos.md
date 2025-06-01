@@ -9,6 +9,11 @@ Aqui apresentamos uma coleção de fotos que registram momentos importantes da v
 **Evento:** *50º aniversário de casamento dos pais de Ian Murdock – Super 8 Motel, Gardner, Massachusetts*
 **Descrição:** Nesta imagem, registrada por Nancy Murdock durante a comemoração das bodas de ouro dos pais de Ian Murdock, vemos da esquerda para a direita: Becky, Ian, Tim e Natalie. O momento, íntimo e familiar, celebra uma importante data na história da família, reunindo seus membros em um ambiente descontraído e afetuoso.
 
+## ![Ian Murdock jovem no Apple IIe](./assets/children.png)
+
+**Data:** Sem data especificada
+**Descrição:** Nesta imagem retirada do site pessoal de Ian Murdock, vemos Ian ainda jovem utilizando seu computador Apple IIe. A foto captura um momento significativo de sua infância, refletindo o início de seu envolvimento com a tecnologia — uma paixão que mais tarde o levaria a se tornar uma figura central no movimento do software livre, como fundador do projeto Debian.
+
 
 ## ![Ian Murdock palestrando](./assets/ian-murdock-2008.webp)
 
