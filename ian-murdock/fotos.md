@@ -3,6 +3,12 @@
 Aqui apresentamos uma coleção de fotos que registram momentos importantes da vida e as contribuições de Ian Murdock para o mundo do Software Livre.
 
 
+## ![Foto da família Murdock reunida](./assets/Ifam50th.jpg)
+
+**Data:** Agosto de 2000
+**Evento:** *50º aniversário de casamento dos pais de Ian Murdock – Super 8 Motel, Gardner, Massachusetts*
+**Descrição:** Nesta imagem, registrada por Nancy Murdock durante a comemoração das bodas de ouro dos pais de Ian Murdock, vemos da esquerda para a direita: Becky, Ian, Tim e Natalie. O momento, íntimo e familiar, celebra uma importante data na história da família, reunindo seus membros em um ambiente descontraído e afetuoso.
+
 
 ## ![Ian Murdock palestrando](./assets/ian-murdock-2008.webp)
 
