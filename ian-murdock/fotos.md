@@ -1,6 +1,15 @@
 # Álbum de Fotos de Ian Murdock
 
+## Introdução
+
+Este álbum de fotos tem como objetivo apresentar, de forma visual e contextualizada, a trajetória de Ian Murdock, uma das figuras mais influentes do movimento do Software Livre. Ao reunir imagens marcantes de sua vida pessoal e profissional, buscamos ilustrar momentos importantes que ajudaram a moldar o legado de Murdock, especialmente sua atuação como fundador do Projeto Debian, uma das distribuições Linux mais utilizadas e respeitadas no mundo.
+
+Cada foto aqui selecionada é acompanhada de uma breve descrição, fornecendo informações relevantes sobre o contexto histórico e o impacto de suas contribuições. Além de homenagear Ian Murdock, este registro fotográfico pretende servir como fonte de inspiração e referência para estudantes, entusiastas e futuros colaboradores do universo do Software Livre.
+
+---
+
 Aqui apresentamos uma coleção de fotos que registram momentos importantes da vida e as contribuições de Ian Murdock para o mundo do Software Livre, organizadas cronologicamente.
+
 
 ---
 ## ![Ian Murdock jovem no Apple IIe](./assets/children.png)
