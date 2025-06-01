@@ -2,7 +2,7 @@
 ---
 
 ## Introdução: **O Legado Pioneiro de Ian Murdock no Software Livre**  
-Ian Murdock (1973-2015) é amplamente reconhecido como uma figura seminal no movimento do software livre e de código aberto. Sua contribuição mais notável foi a fundação do Projeto Debian em 1993, uma distribuição Linux que se tornou um pilar para inúmeros outros sistemas operacionais e um bastião dos princípios de liberdade de software. 
+Ian Murdock (1973-2015) é amplamente reconhecido como uma figura seminal no movimento do software livre e de código aberto. Sua contribuição mais notável foi a fundação do Projeto Debian em 1993, uma distribuição Linux que se tornou um pilar de varias outras distribuições Linux e um bastião dos princípios de liberdade de software. 
 
 ---
 
